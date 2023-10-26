@@ -19,7 +19,9 @@ namespace myFirstProjWithSQL
                 command.Connection.Open();
                 command.ExecuteNonQuery();
             }
+            //jkjkjkjk
 
+            //bjjkdkdkd
         }
         //הכנסת קטגוריות
         public int InsertDataC(string connectionString) { 
