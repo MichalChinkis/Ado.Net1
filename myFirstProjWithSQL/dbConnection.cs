@@ -43,6 +43,7 @@ namespace myFirstProjWithSQL
                 cn.Close();
 
                 return rowsAffected;
+                //hello michal!
             }
         }
 
